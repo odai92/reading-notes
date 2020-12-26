@@ -2,7 +2,9 @@
 
 ---
 
-This**README**file of this page, On this page > i will show the consept unsing **_MARKDOWN_**.
+This**README**file of this page, On this page
+
+> i will show the consept unsing **_MARKDOWN_**.
 
 ---
 
@@ -10,7 +12,7 @@ This**README**file of this page, On this page > i will show the consept unsing *
 
 - The main page describe's the repo
 - Pages for each day inside the page will link you to:
-  > a page contain a table.
+  > a page contain a table, the
   > table describes the assigment and my comments.
 - There is 15 repo's on this course.
 
