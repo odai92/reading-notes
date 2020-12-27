@@ -24,4 +24,4 @@ This**README**file of this page, On this page
 
 ### You can use these link's to access the md files:
 
-[Class-01](https://odai92.github.io/reading-notes/code201.html/md's/class-01.md)
+[Class-01](https://github.com/odai92/reading-notes/blob/master/md's/claas-01.md)
