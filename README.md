@@ -34,4 +34,4 @@ This**README**file of this page, On this page
 
 ## [read-05](md's/class-05.md)
 
-## [Read-06](md's/class-06.md)
+## [Read-06](md's/class-6.md)
