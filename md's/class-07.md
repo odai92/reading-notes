@@ -12,7 +12,15 @@ now what if we have a long table? in this case we will use the table tag followe
 
 ---
 
-2- Functions: <br /> I should read it again
+2- Functions: <br />
+functions is a container for some statments, to run a specific task, so if another part of the script repeat the same task we can reuse the function.<br />
+a- declaring the function: we give it a name and thenn we write the statment need to achieve inside curly brackets. <br />
+b- calling the function: after declaring the function we can execute all of the statments between the curly braces in just one line.<br />
+c- declaring function that needs information by giving it parameters the parameters will act like variables,<br /> and when we want to call it we have to specify the value it should use in the parantheses that follow its name we call the value arguments.<br />
+d- getting a single value out of a function: some functions return information to the code that called them by the key word return.<br />
+e- getting multiple values out of a function: function can return more than one value using an array.<br />
+f- function decleration and function expression : decleration we can call it later, expression when i expect to see exprisionn ,,,<br />
+j- there is local var and global var.<br />
 
 ---
 
