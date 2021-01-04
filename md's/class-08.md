@@ -2,7 +2,7 @@
 
 ---
 
-# Mainly it's about HTML links, JS functions and intro to CSS **Layout**
+# Mainly it's about CSS **Layout**
 
 ---
 
@@ -18,10 +18,3 @@ _Ducket book:_
 - about layout, normal flow position? static, rlative: top and left, absolute: top and left and width, fixed: reqires the position propert to have a value of fixed,<br />
 
 ---
-
-## what is functions? it let u group a series of statments togther to perfom a specific task. we can declare a function using the function keyword, to run in the function we use the function name followed by parentheses we can call it as many times within the same js file, when i desigin a script, i should note the informations will require in order to perform its task.
-
-- pair program? well, there is the driver who is responsable to write the codes and there is navigator who thinks about what comes next and utilize their computer scan for typos and bugs,<br />
-- why? i will learn the four skills listening hearing and interpreting the vocabulary speaking.
-
-- reason for? greater efficiency, if im stuck both can research the problme, engaged collaboration and ask for help, learning from students everyone has his own technuiqe, social skills international skills i mean,<br /> job interview readiness pair programming strengthens all skills, be ready to work environment readiness.
