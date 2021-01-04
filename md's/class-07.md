@@ -24,11 +24,12 @@ j- there is local var and global var.<br />
 
 ---
 
-3: Objects: <br /> I should read it again
+3: Objects: <br />
+ojects are container of properties and methods, we can create a constructor it will be the moudle shows the things i will describe inside it and then giving it a value after creating the new object or i can use notation to create something new outside the object.
 
 ---
 
-4: Moudle:<br />I should read it again
+4: Moudle:<br /> built in object
 
 ---
 
